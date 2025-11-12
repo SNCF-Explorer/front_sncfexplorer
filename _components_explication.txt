@@ -1,0 +1,9 @@
+en gros le link a des attributs : 
+replace (on replace la window donc pas de flèches arriere, comme un ctrl T pour faire une nouvelle page)
+scroll : quand c'est à false, si on est milieu de page, et on clique sur une page ou ya scroll=false il restera milieu de page
+prefetch (load la page avant de cliquer dessus mais en gros il a jamais utilisé donc faut faire gaffe)
+
+use client
+c important pour les pages coté client (navbar, bouton et autres)
+seulement pour les clients components
+https://www.youtube.com/watch?v=Qdkg_mrniLk elle est bien mais il débite
