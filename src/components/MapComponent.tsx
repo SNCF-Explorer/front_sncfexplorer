@@ -16,10 +16,10 @@ L.Icon.Default.mergeOptions({
 
 export default function MapComponent() {
     return (
-        <div className="h-[80vh] w-full rounded shadow">
+        <div className="h-[75vh] w-full rounded shadow">
             <MapContainer
                 center={[48.8584, 2.2945]} // Coordonnées par défaut : Paris
-                zoom={13}
+                zoom={11}
                 scrollWheelZoom={true}
                 className="h-full w-full z-0"
             >
